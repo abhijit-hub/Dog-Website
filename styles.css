@@ -3,6 +3,7 @@
 }
 
 
+
 .container {
     padding: 2% 15%;
 }
@@ -15,7 +16,7 @@
     font-weight: bolder;
 }
 
-.body {
+.body { 
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -30,7 +31,7 @@
     top: 5rem;
     height: 50%;
     padding-bottom: 15%;
-}
+}   
 
 .title-img {
     width: 25%;
@@ -71,10 +72,7 @@
     z-index: 1;
 }
 
-.fa-heart {
-    /* color: pink; */
 
-}
 
 .fea-h3 {
     font-family: 'Montserrat', sans-serif;
@@ -165,7 +163,7 @@
 .pricing-h2 {
     font-weight: bolder;
 }
-7
+
 .card-h3 {
     font-weight: 900;
 }
